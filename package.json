@@ -1,0 +1,25 @@
+{
+  "name": "webtesting-i-challenge",
+  "version": "1.0.0",
+  "description": "Web Testing I Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeesahMasko/webtesting-i-challenge"
+  },
+  "keywords": [
+    "lambda",
+    "testing"
+  ],
+  "author": "Lambda School",
+  "bugs": {
+    "url": "https://github.com/LeesahMasko/webtesting-i-challenge/issues"
+  },
+  "homepage": "https://github.com/LeesahMasko/webtesting-i-challenge#readme",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
